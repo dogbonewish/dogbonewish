@@ -25,7 +25,7 @@ currently building **[fluxy](https://fluxer.gg/fluxy)** — a bot for [fluxer.js
 
 ## github stats
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/dogbonewish?cardType=level&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My awesome stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
