@@ -23,12 +23,6 @@ currently building **[fluxy](https://fluxer.gg/fluxy)** — a bot for [fluxer.js
 
 ---
 
-## github stats
-
-[![My awesome stats](https://github-readme-stats.vercel.app/api?username=dogbonewish)](https://github.com/dogbonewish/dogbonewish)
-
----
-
 ## find me here
 
 - 🌐 fluxer: **dogbone#0069**
