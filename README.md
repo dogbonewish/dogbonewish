@@ -3,7 +3,7 @@
 
 college student. i build stuff for fun and maybe it will be a career someday.
 
-currently building **[fluxy](https://fluxer.gg/fluxy)** — a bot for [fluxer.js.org](https://fluxer.js.org/) that i'm genuinely pretty excited about. also made **[fluxer-bot-template](https://github.com/dogbonewish/fluxer-bot-template)** if you wanna build your own.
+currently building **[fluxy](https://fluxer.gg/fluxy)** — a bot using [fluxer.js.org](https://fluxer.js.org/) for [fluxer.app](https://fluxer.app) that i'm genuinely pretty excited about. also made **[fluxer-bot-template](https://github.com/dogbonewish/fluxer-bot-template)** if you wanna build your own.
 
 ---
 
