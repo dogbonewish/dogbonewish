@@ -27,10 +27,11 @@ i also really love proxmox :)
 | --- | --- |
 | [fluxy](https://github.com/dorkydigital/fluxy) | a bot for fluxer, in active development |
 | [fluxer-bot-template](https://github.com/dogbonewish/fluxer-bot-template) | clean starter template for building fluxer bots |
+| [erin.js](https://github.com/blstmo-abandoned-us-for-the-milk/core) | A community maintained fork of FluxerJS |
 
 ---
 
 ## find me here
 
 - 🌐 fluxer: **dogbone#0069**
-- 🌐 discord: dogbone.wish
+- email: inquiries@dorcus.digital (slow to respond)
