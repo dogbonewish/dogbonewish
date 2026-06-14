@@ -3,7 +3,7 @@
 
 college student. i build stuff for fun and maybe it will be a career someday.
 
-currently building **[fluxy](https://fluxy.gay)** — a bot using [fluxer.js](https://fluxer.js.org/) for [fluxer.app](https://fluxer.app) that i'm genuinely pretty excited about. I am also helping maintain a fork of [fluxer.js](https://github.com/fluxerjs/core). You can find it [here](https://github.com/blstmo-abandoned-us-for-the-milk/core). I've also made **[fluxer-bot-template](https://github.com/dogbonewish/fluxer-bot-template)** if you wanna build your own fluxer bot (in typescript).
+currently building **[fluxy](https://fluxy.gay)** — a bot using [fluxer.js](https://fluxer.js.org/) for [fluxer.app](https://fluxer.app). I've also made **[fluxer-bot-template](https://github.com/dogbonewish/fluxer-bot-template)** if you wanna build your own fluxer bot (in typescript).
 
 i also really love proxmox :)
 
@@ -34,4 +34,3 @@ i also really love proxmox :)
 ## find me here
 
 - 🌐 fluxer: **dogbone#0069**
-- email: inquiries@dorcus.digital (slow to respond)
