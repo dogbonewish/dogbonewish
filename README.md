@@ -27,7 +27,6 @@ i also really love proxmox :)
 | --- | --- |
 | [fluxy](https://git.fluxy.gay/dog/fluxy) | a bot for fluxer, in active development |
 | [fluxer-bot-template](https://github.com/dogbonewish/fluxer-bot-template) | clean starter template for building fluxer bots |
-| [erin.js](https://github.com/blstmo-abandoned-us-for-the-milk/core) | A community maintained fork of FluxerJS |
 
 ---
 
