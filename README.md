@@ -1,7 +1,7 @@
 
-# hey, i'm dogbone 👋
+# hey, i'm "dogbonewish"
 
-college student. i build stuff for fun and maybe it will be a career someday.
+college student. i build stuff for fun.
 
 currently building **[fluxy](https://fluxy.gay)** — a bot using [fluxer.js](https://fluxer.js.org/) for [fluxer.app](https://fluxer.app). I've also made **[fluxer-bot-template](https://github.com/dogbonewish/fluxer-bot-template)** if you wanna build your own fluxer bot (in typescript).
 
